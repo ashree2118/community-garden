@@ -32,9 +32,16 @@ main {
     padding: 20px;
 }
 
+
 footer {
     background: #fe7979;
     color: #fff;
     text-align: center;
     padding: 1em 0;
+}
+.page1-headline{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: brown;
 }
