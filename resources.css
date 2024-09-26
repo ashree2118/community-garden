@@ -31,6 +31,9 @@ nav ul li a {
 
 main {
     padding: 20px;
+    font-size: 30px;
+    font-weight: 200px;
+    color: #22331F;
 }
 
 footer {
