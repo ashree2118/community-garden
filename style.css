@@ -57,13 +57,13 @@ button{
     border-radius: 50px;
     padding: 10px 20px;
     margin-left: 10px;
-    background-color: #8eac4f;
+    background-color: #01b3ff;
     border: none;
     font-size: 20px;
     font-weight: bolder;
 }
 button:hover{
-    transform: scale(1.2);
+    transform: scale(1.1);
     transition: 0.2s ease-in-out;
-    opacity: 0.9;
+    opacity: 0.8;
 }
