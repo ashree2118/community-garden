@@ -74,6 +74,8 @@ button:hover{
 }
 .headlinetext{
     font-size: 40px;
+    text-align: left;
+    padding: 35px;
 }
 .line1{
     
