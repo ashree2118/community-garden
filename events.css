@@ -28,6 +28,9 @@ nav ul li a {
     color: #fff;
     text-decoration: none;
 }
+nav ul li a:hover{
+    color: #fff;
+}
 
 main {
     padding: 20px;
