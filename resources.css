@@ -53,11 +53,3 @@ footer {
 .line2{
     font-size: 25px;
 }
-nav ul li a:hover{
-    color: #fff;
-    transform: scale(1.2);
-}
-
-main {
-    padding: 20px;
-}
