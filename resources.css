@@ -59,3 +59,7 @@ footer {
     text-align: center;
     padding: 1em 0;
 }
+nav ul li a:hover{
+    color: #fff;
+    transform: scale(1.2);
+}
