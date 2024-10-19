@@ -83,3 +83,8 @@ button:hover{
 .subline{
     font-size: 25px;
 }
+.textpart{
+    color: #22331F;
+    font-weight: bolder;
+    padding-left: 30px;
+}
