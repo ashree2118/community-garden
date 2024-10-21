@@ -66,6 +66,7 @@ button{
     border: none;
     font-size: 20px;
     font-weight: bolder;
+    margin-left: 35px;
 }
 button:hover{
     transform: scale(1.1);
@@ -86,7 +87,7 @@ button:hover{
 .textpart{
     color: #22331F;
     font-weight: bolder;
-    padding-left: 30px;
+    padding-left: 35px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     
 }
