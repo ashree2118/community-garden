@@ -44,6 +44,7 @@ footer {
     color: #fff;
     text-align: center;
     padding: 1em 0;
+    position: relative;
 }
 .line1{
     font-size: 40px;
