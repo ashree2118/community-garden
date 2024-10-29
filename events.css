@@ -13,10 +13,7 @@ header {
 }
 header {
     background: #8eac4f;
-    color: #fff;
-    padding: 1em 0;
-    text-align: center;
-}
+
 nav ul {
     list-style: none;
     padding: 0;
