@@ -94,17 +94,7 @@ button:hover{
     color: #22331F;
     font-weight: bolder;
     padding-left: 40px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin: 20px;
 }
-.poppins-extralight {
-    font-family: "Poppins", serif;
-    
-  }
-  
-  .poppins-regular {
-    font-family: "Poppins", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
+
   
