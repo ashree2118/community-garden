@@ -82,6 +82,7 @@ button:hover{
     padding: 35px;
     font-weight: 200;
     font-style: normal;
+    display: flex;
 }
 .subline{
     font-size: 25px;
