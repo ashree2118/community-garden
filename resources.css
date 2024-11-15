@@ -47,9 +47,9 @@ footer {
     position: relative;
 }
 .line1{
-    font-size: 40px;
+    font-size: 20px;
     text-align: left;
-    
+    font-weight: 400;
 }
 .line2{
     font-size: 25px;
