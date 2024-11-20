@@ -10,7 +10,10 @@ header {
     color: #22331F;
     padding: 1em 0;
     text-align: center;
+    display: flex;
+    justify-content: space-between;
 }
+
 
 nav ul {
     list-style: none;
