@@ -38,8 +38,10 @@ nav ul li a:hover{
 }
 
 
-main {
+.main {
     padding: 20px;
+    background-image: url(top-view-vegetables-assortment-dark-background-removebg-preview.png);
+    background-repeat: no-repeat;
 }
 
 footer {
