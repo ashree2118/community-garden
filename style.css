@@ -33,19 +33,27 @@ nav ul li a {
     color: #22331F;
     text-decoration: none;
 }
-nav ul li a:hover{
+
+nav ul li a:hover {
     color: #fff;
 }
 
 
 .main {
     padding: 20px;
-    background-image: url(top-view-vegetables-assortment-dark-background-removebg-preview.png);
-    background-repeat: no-repeat;
-    background-position: center;
 
 }
 
+/*.for-img {
+    background-image: url(top-view-vegetables-assortment-dark-background-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 587.519px;
+    height: 470.015px;
+    transform: rotate(-115.927deg);
+    flex-shrink: 0;
+}
+*/
 footer {
     background: #fe7979;
     color: #fff;
@@ -55,20 +63,22 @@ footer {
     bottom: 0;
     width: 100%;
 }
-.page1-headline{
+
+.page1-headline {
     font-weight: 600;
     font-style: normal;
     justify-content: center;
     text-align: center;
     color: #22331F;
 }
-.page1-headline img{
+
+.page1-headline img {
     width: 400px;
     height: 390px;
     margin: 53px 40px 53px 0;
 }
 
-button{
+button {
     border-radius: 50px;
     padding: 10px 20px;
     margin-left: 10px;
@@ -78,12 +88,14 @@ button{
     font-weight: bolder;
     margin-left: 35px;
 }
-button:hover{
+
+button:hover {
     transform: scale(1.1);
     transition: 0.2s ease-in-out;
     opacity: 0.8;
 }
-.headlinetext{
+
+.headlinetext {
     font-size: 40px;
     text-align: left;
     padding: 35px;
@@ -91,17 +103,20 @@ button:hover{
     font-style: normal;
     display: flex;
 }
-.subline{
+
+.subline {
     font-size: 15px;
     padding: 0 200px 0 0;
 }
-.textpart{
+
+.textpart {
     color: #22331F;
     font-weight: bolder;
     padding-left: 40px;
     margin: 20px;
 }
-.line1{
+
+.line1 {
     margin: 0 130px 30px 35px;
-    
+
 }
