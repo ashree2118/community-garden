@@ -169,6 +169,10 @@ width: 670px;
 
     
 }
+.veggie-basket-with-text{
+    display: inline-flex;
+
+}
 .organic{
     color: #FFF;
 text-align: center;
@@ -179,4 +183,18 @@ font-style: normal;
 font-weight: 500;
 line-height: 120.18%; /* 115.373px */
 text-transform: capitalize;
+margin-top: 180px;
 }
+.veggies{
+    color: #FFF;
+text-align: center;
+text-shadow: 0px 15px 20px #22331F;
+font-family: Poppins;
+font-size: 96px;
+font-style: normal;
+font-weight: 500;
+line-height: 120.18%; /* 115.373px */
+text-transform: capitalize;
+margin-top: 180px;
+}
+
