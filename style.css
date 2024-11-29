@@ -133,7 +133,7 @@ header {
 }
 
 nav ul {
-    
+
     list-style: none;
     margin: 0;
     text-align: center;
@@ -157,44 +157,48 @@ nav ul li a:hover {
     transform: scale(1.1);
 }
 
-.fruits{
+.fruits {
     justify-content: center;
     display: block;
     margin-top: 45px;
-  margin-left: auto;
-  margin-right: auto;
-height: 620px;
-width: 500px;
-padding-inline: 40PX;
+    margin-left: auto;
+    margin-right: auto;
+    height: 620px;
+    width: 500px;
+    padding-inline: 40PX;
 
-    
+
 }
-.veggie-basket-with-text{
+
+.veggie-basket-with-text {
     display: inline-flex;
-padding-inline: 97PX;
-}
-.organic{
-    color: #FFF;
-text-align: center;
-text-shadow: 0px 15px 20px #22331F;
-font-family: Poppins;
-font-size: 100px;
-font-style: normal;
-font-weight: 500;
-line-height: 120.18%; /* 115.373px */
-text-transform: capitalize;
-margin-top: 190px;
-}
-.veggies{
-    color: #FFF;
-text-align: center;
-text-shadow: 0px 15px 20px #22331F;
-font-family: Poppins;
-font-size: 100px;
-font-style: normal;
-font-weight: 500;
-line-height: 120.18%; /* 115.373px */
-text-transform: capitalize;
-margin-top: 190px;
+    padding-inline: 97PX;
 }
 
+.organic {
+    color: #FFF;
+    text-align: center;
+    text-shadow: 0px 15px 20px #22331F;
+    font-family: Poppins;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 120.18%;
+    /* 115.373px */
+    text-transform: capitalize;
+    margin-top: 190px;
+}
+
+.veggies {
+    color: #FFF;
+    text-align: center;
+    text-shadow: 0px 15px 20px #22331F;
+    font-family: Poppins;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 120.18%;
+    /* 115.373px */
+    text-transform: capitalize;
+    margin-top: 190px;
+}
