@@ -202,3 +202,17 @@ line-height: 120.18%;
     text-transform: capitalize;
     margin-top: 190px;
 }
+.join-us-button button{
+    position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 25px;
+  font-size: 20px;
+  font-family: poppins;
+  color: #FFF;
+  background-color: #fe7979;
+  border: none;
+  border-radius: 100px;
+  padding: 5px 15px;
+
+}
