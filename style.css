@@ -190,15 +190,15 @@ nav ul li a:hover {
 }
 
 .veggies {
-    color: #FFF;
-    text-align: center;
-    text-shadow: 0px 15px 20px #22331F;
-    font-family: Poppins;
-    font-size: 100px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 120.18%;
-    /* 115.373px */
+color: #FFF;
+text-align: center;
+ text-shadow: 0px 15px 20px #22331F;
+font-family: Poppins;
+font-size: 100px;
+font-style: normal;
+font-weight: 500;
+line-height: 120.18%;
+/* 115.373px */
     text-transform: capitalize;
     margin-top: 190px;
 }
